@@ -1,0 +1,9 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\bin\Debug\DesktopCleaner.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\bin\Debug\DesktopCleaner.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\bin\Debug\DesktopCleaner.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\obj\Debug\DesktopCleaner.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\obj\Debug\DesktopCleaner.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\bin\Debug\DesktopCleaner.exe.manifest
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\bin\Debug\DesktopCleaner.application
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\obj\Debug\DesktopCleaner.exe.manifest
+c:\users\eleazar\documents\visual studio 2013\Projects\DesktopCleaner\DesktopCleaner\obj\Debug\DesktopCleaner.application
